@@ -1,6 +1,6 @@
 {
     "name": "@felixbores/react-avatar",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "",
     "main": "build/index.js",
     "scripts": {
@@ -9,7 +9,7 @@
         "lint": "eslint lib/**; exit 0",
         "lint:watch": "esw -w lib/**",
         "prepublish": "npm run build",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"No test specified\" && exit 0"
     },
     "repository": {
         "type": "git",
