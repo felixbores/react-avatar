@@ -1,6 +1,6 @@
 {
     "name": "@felixbores/react-avatar",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "",
     "main": "build/index.js",
     "scripts": {
@@ -35,6 +35,11 @@
         "prop-types": "^15.6.1",
         "react": "^16.3.1",
         "react-dom": "^16.3.1",
+        "styled-components": "^3.2.5"
+    },
+    "peerDependencies": {
+        "react": "^16.3.1",
+        "prop-types": "^15.6.1",
         "styled-components": "^3.2.5"
     }
 }
