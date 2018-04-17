@@ -20,6 +20,11 @@
     "bugs": {
         "url": "https://github.com/felixbores/react-avatar/issues"
     },
+    "keywords": [
+        "react",
+        "avatar",
+        "svg"
+    ],
     "homepage": "https://github.com/felixbores/react-avatar#readme",
     "devDependencies": {
         "babel-cli": "^6.26.0",
